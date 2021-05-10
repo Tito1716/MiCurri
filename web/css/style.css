@@ -1,0 +1,14 @@
+
+.btn {
+  width: 12.5em;
+  border-radius: 5em;
+  color: #ffffff;
+  line-height: 4em;
+  white-space: nowrap;
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: color 0.2s 0.3s, width 0.3s 0s;
+  -moz-transition: color 0.2s 0.3s, width 0.3s 0s;
+  transition: color 0.2s 0.3s, width 0.3s 0s;
+}

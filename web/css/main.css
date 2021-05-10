@@ -1,0 +1,62 @@
+:root{
+  --KindofYellow: #FCA311;
+  --KindofGrey: #E5E5E5;
+}
+body{
+  background-color: #14213D !important;
+}
+.parallax-container{
+  height: 100vh;
+}
+.letra-inicio{
+     color: var(--KindofYellow);
+     margin-left: 2vh;
+     font-size: 27vw;
+     font-family: 'Ubuntu', sans-serif;
+}
+.letra-inicio2{
+    color: white;
+    font-size: 10vw;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 2vh;
+} 
+.titulo{
+  color: var(--KindofGrey);
+  margin: 5vw;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.titulo6{
+  color: #14213D;
+  margin: 5vw;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.cambio{
+  background-color: var(--KindofYellow) !important;
+}
+.fondo{
+  background-color: var(--KindofGrey) !important;
+}
+.tf{
+  background-color: #E5E5E5;
+}
+.fondoTarjeta{
+  background-color: #14213D !important;
+}
+.letrablanca{
+  color: white !important;
+}
+i.icon-blue {
+    color: blue;
+}
+@media screen and (min-width:544px){
+  .letra-inicio{
+    font-size: 10vw;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .letra-inicio2{
+    font-size: 5vw;
+    font-family: 'Ubuntu', sans-serif;
+  }
+}
