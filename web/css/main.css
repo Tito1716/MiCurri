@@ -1,6 +1,7 @@
 :root{
   --KindofYellow: #FCA311;
   --KindofGrey: #E5E5E5;
+  --KindOfBlue: #14213D;
 }
 body{
   background-color: #14213D !important;

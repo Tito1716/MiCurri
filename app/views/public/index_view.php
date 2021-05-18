@@ -13,7 +13,7 @@
           <div class='grid'>
             <div class='col-6 flex items-center height-100%'>
               <div class='text-component padding-md '>
-                <h2>Desarrollo movil</h2>
+                <h2>Desarrollo web</h2>
                 <p class='display@xs'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <button class='btn modal-trigger cambio' href='#modal1'>Algo</button>
               </div>
@@ -60,8 +60,18 @@
 </div>
         <div id='modal1' class='modal'>
           <div class='modal-content'>
-            <h4>Modal Header</h4>
-            <p>A bunch of text</p>
+            <h2>Desarrollo web</h2>
+            <p>Conocimientos en: </p>
+            <div class='row'>
+              <div col='col l6 m3 s1'>
+              <ul>
+                <li>Net Core</li>
+                <li>PHP</li>
+              </ul>
+              <div class='col s6 offset-s6'><span class=' flow-text'>6-columns (offset-by-6)</span></div>
+              </div>
+            </div>
+            
           </div>
           <div class='modal-footer'>
             <a href='#!' class='modal-close waves-effect waves-green btn-flat'>Agree</a>
